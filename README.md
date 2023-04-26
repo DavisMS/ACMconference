@@ -1,7 +1,7 @@
 <h1 align="center">ACM-W, Celebration of Women's Computing Conference - Certificate of Participation</h1>
 
 <h2 align="center">Who is Kentucky Community College Women in Computing:</h2>
-<p> <i>"Kentucky Community College Women in Computing (KYCCWIC) is a regional ACM-W Celebration of Women in Computing. KYCCWIC connects technical women who are working/studying in Kentucky. The annual conference provides women the opportunity to learn from industry leaders while preparing them for a future career in various technical fields. The 2023 conference will focus on computer security, computer programming, data analytics, technology trends, and employment." - About Us <a href="https://kyccwic.org/">kyccwic.org</a></i>
+<p align="center"> <i>"Kentucky Community College Women in Computing (KYCCWIC) is a regional ACM-W Celebration of Women in Computing. KYCCWIC connects technical women who are working/studying in Kentucky. The annual conference provides women the opportunity to learn from industry leaders while preparing them for a future career in various technical fields. The 2023 conference will focus on computer security, computer programming, data analytics, technology trends, and employment." - About Us <a href="https://kyccwic.org/">kyccwic.org</a></i>
 </p><br>
 
 <h3 align="center">Certifications earned by participating in the ACM-W conference.</h3><br>
